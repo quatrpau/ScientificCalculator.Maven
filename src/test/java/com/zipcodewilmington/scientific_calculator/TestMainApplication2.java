@@ -9,7 +9,7 @@ import org.junit.Test;
 /**
  * Created by leon on 2/9/18.
  */
-public class TestMainApplication {
+public class TestMainApplication2{
     @Test
     public void currentNumberTest() {
         MainApplication.changeNumber(0);
